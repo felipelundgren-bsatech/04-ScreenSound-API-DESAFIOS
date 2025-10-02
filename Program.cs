@@ -1,4 +1,7 @@
-﻿////desafio 1
+﻿////DESAFIOS FORA DE ORDEM
+////DESCOMENTE CADA DESAFIO PARA TESTAR
+
+////desafio 1
 //using (HttpClient client = new HttpClient())
 //{
 //    try
