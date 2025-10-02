@@ -12,3 +12,18 @@ C:\Users\felipe.lundgren\Desktop\Desafio Consimundo API C#\Desafio Consumindo AP
 C:\Users\felipe.lundgren\Desktop\Desafio Consimundo API C#\Desafio Consumindo API\obj\Debug\net9.0\Desafio Consumindo API.pdb
 C:\Users\felipe.lundgren\Desktop\Desafio Consimundo API C#\Desafio Consumindo API\obj\Debug\net9.0\Desafio Consumindo API.genruntimeconfig.cache
 C:\Users\felipe.lundgren\Desktop\Desafio Consimundo API C#\Desafio Consumindo API\obj\Debug\net9.0\ref\Desafio Consumindo API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\bin\Debug\net9.0\Desafio Consumindo API.exe
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\bin\Debug\net9.0\Desafio Consumindo API.deps.json
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\bin\Debug\net9.0\Desafio Consumindo API.runtimeconfig.json
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\bin\Debug\net9.0\Desafio Consumindo API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\bin\Debug\net9.0\Desafio Consumindo API.pdb
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.AssemblyInfoInputs.cache
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.AssemblyInfo.cs
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.csproj.CoreCompileInputs.cache
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.sourcelink.json
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\refint\Desafio Consumindo API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.pdb
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\Desafio Consumindo API.genruntimeconfig.cache
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API-DESAFIOS\obj\Debug\net9.0\ref\Desafio Consumindo API.dll

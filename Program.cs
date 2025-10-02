@@ -70,7 +70,7 @@
 //    Console.WriteLine("Erro! O objeto é nulo. Você não pode chamar um método nele.");
 //}
 //---------------------------------------------------------------------------------------------------
-//Desafio 5
+////Desafio 5
 
 //using Desafio_Consumindo_API.Filter;
 //using Desafio_Consumindo_API.Pais;
@@ -99,6 +99,44 @@
 
 //LinqFilter.FiltrarNumerosDistintos(numeros);
 ////---------------------------------------------------------------------------------------------------
+/////Desafio 7
+//using Desafio_Consumindo_API.Pais;
+//using Desafio_Consumindo_API.Filter;
+//using Desafio_Consumindo_API;
 
+
+//var livros = new List<Livro>
+//        {
+//            new Livro { Titulo = "O Nome do Vento", Autor = "Patrick Rothfuss", Ano = 2007 },
+//            new Livro { Titulo = "A Guerra dos Tronos", Autor = "George R. R. Martin", Ano = 1996 },
+//            new Livro { Titulo = "A Dança dos Dragões", Autor = "George R. R. Martin", Ano = 2011 },
+//            new Livro { Titulo = "O Senhor dos Anéis", Autor = "J.R.R. Tolkien", Ano = 1954 },
+//            new Livro { Titulo = "Mistborn", Autor = "Brandon Sanderson", Ano = 2006 }
+//        };
+
+//LinqFilter.FiltrarLivrosPorAno(livros, 2000);
+//---------------------------------------------------------------------------------------------------
+////Desafio 8
+
+//using Desafio_Consumindo_API.Filter;
+//using Desafio_Consumindo_API.Pais;
+
+//var produtos = new List<Produtos>
+//        {
+//            new Produtos { Nome = "Notebook", Preco = 2500 },
+//            new Produtos { Nome = "Mouse", Preco = 75 },
+//            new Produtos { Nome = "Teclado", Preco = 120 },
+//            new Produtos { Nome = "Monitor", Preco = 950 }
+//        };
+//LinqFilter.FiltrarPrecoMedio(produtos);
+//---------------------------------------------------------------------------------------------------
+////Desafio 9
+//using Desafio_Consumindo_API.Pais;
+//using Desafio_Consumindo_API.Filter;
+
+//var numeros = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+//LinqFilter.RetornarApenasPares(numeros);
+//---------------------------------------------------------------------------------------------------
 
 
